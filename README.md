@@ -40,4 +40,4 @@ Converts nearly any existing movie format into an emWin movie file.
 
 U2C, UTF-8 to C Converter
 U2C converts UTF-8 text to C code. It reads an UTF-8 text file and creates a C file with C strings
-![image](https://user-images.githubusercontent.com/6847952/114329830-54262200-9b7b-11eb-983d-88c1d4e263e3.png)
+
